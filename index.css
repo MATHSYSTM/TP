@@ -1,7 +1,7 @@
 a{color:white; text-decoration:none;}
 
 svg{background-color: rgba(90%,90%,100%,1);position: absolute;left:290px;top:10px;height: 290px;width: 500px;}
-body{background-color: rgba(30%,30%,30%,0.6);display:flex;justify-content:center;}
+body{background-color: rgba(30%,30%,30%,0.6);display:flex;justify-content:center; flex-direction:column;}
 #nv1{background-color: rgba(60%,100%,60%,1);position: absolute;height: 800px;width:800px;}
 
 #niv{background-color: rgba(0%,0%,0%,1);position: absolute;height: 60px;width:250px;left:5px; 
