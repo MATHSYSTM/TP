@@ -8,6 +8,7 @@ var photocour=[0,1,1,1,1];var photoexo=[0,1,1,1,0,0,0,0,0,0,0,0,0,0,0];var gatek
 
 
 var photocor=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+var codchange=0;
  for(let g=0;g<=60;g++){sndnum[g]=0;}
 let evtb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 function get_ord1(idt){rang=parseInt(idt[idt.length-1]);}
